@@ -1,0 +1,495 @@
+{
+  "stateCode": "GA",
+  "langCode": "en",
+  "pageId": "1",
+  "pageName": "Home Page",
+  "config": {
+    "id": "1",
+    "align": "center",
+    "backgroundImage": {
+      "url": "",
+      "alt": "",
+      "size": "",
+      "position": ""
+    }
+  },
+  "content": {
+    "header": {
+      "config": {
+        "id": "1",
+        "align": "center"
+      },
+      "content": {
+        "logoDetails": {
+          "items": [
+            {
+              "id": "1",
+              "url": "https://conduent-poc-dev.oitsystems.com/sites/default/files/public%3A//images.png",
+              "altText": "Logo text",
+              "title": "Logo text",
+              "textAlign": "left"
+            }
+          ]
+        },
+        "navigationDetails": {
+          "textAlign": "right",
+          "items": [
+            {
+              "id": "1",
+              "text": "Home",
+              "href": "#home",
+              "target": ""
+            },
+            {
+              "id": "2",
+              "text": "Create an account",
+              "href": "#createaccount",
+              "target": ""
+            },
+            {
+              "id": "3",
+              "text": "Help",
+              "href": "#help",
+              "target": ""
+            },
+            {
+              "id": "4",
+              "text": "About Us",
+              "href": "#aboutus",
+              "target": ""
+            }
+          ]
+        },
+        "languageDetails": {
+          "textAlign": "right",
+          "defaultLang": {
+            "value": "en",
+            "title": "English"
+          },
+          "options": [
+            {
+              "value": "en",
+              "title": "English"
+            },
+            {
+              "value": "fr",
+              "title": "French"
+            }
+          ]
+        }
+      }
+    },
+    "footerSection": {
+      "config": {
+        "id": "1",
+        "align": "center"
+      },
+      "content": {
+        "mainContent": {
+          "textAlign": "left",
+          "headline": "State Information",
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+        },
+        "contactDetails": {
+          "textAlign": "right",
+          "items": [
+            {
+              "id": "1",
+              "text": "Call Us",
+              "iconDetails": {
+                "url": "call/icon/url",
+                "altText": "Call Us",
+                "title": "Call Us"
+              },
+              "target": "_blank",
+              "href": "url"
+            },
+            {
+              "id": "2",
+              "iconDetails": {
+                "url": "email/icon/url",
+                "altText": "Send an Email",
+                "title": "Send an Email"
+              },
+              "text": "Send an Email",
+              "target": "_blank",
+              "href": "url"
+            }
+          ]
+        },
+        "policyLinks": {
+          "textAlign": "centre",
+          "items": [
+            {
+              "id": "1",
+              "text": "Privacy Policy",
+              "href": "url",
+              "target": "_blank"
+            },
+            {
+              "id": "2",
+              "text": "Accessibility Policy",
+              "href": "url",
+              "target": "_blank"
+            },
+            {
+              "id": "",
+              "text": "Non-discrimination Policy",
+              "href": "/help",
+              "target": "_blank"
+            }
+          ]
+        },
+        "copyright": {
+          "textAlign": "centre",
+          "text": "&copy; 2012-2019. All Rights Reserved."
+        }
+      }
+    },
+    "programPanel": {
+      "config": {
+        "id": "1",
+        "align": "center"
+      },
+      "content": {
+        "headline": {
+          "textAlign": "center",
+          "text": "Apply for one or more programs"
+        },
+        "programs": {
+          "textAlign": "center",
+          "items": [
+            {
+              "id": "1",
+              "iconDetails": {
+                "url": "",
+                "altText": "Health Coverage",
+                "title": "Health Coverage"
+              },
+              "text": "Health Coverage",
+              "isChecked": false,
+              "programContent": "Federal and state programs that provide health coverage",
+              "tooltipLink": {
+                "text": "WHAT IS THIS?",
+                "target": ""
+              },
+              "tooltipContent": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            },
+            {
+              "id": "2",
+              "iconDetails": {
+                "url": "",
+                "altText": "Help Paying for Food",
+                "title": "Help Paying for Food"
+              },
+              "text": "Help Paying for Food",
+              "isChecked": true,
+              "programContent": "Supplemental Nutrition Assistance Program",
+              "tooltipLink": {
+                "text": "WHAT IS THIS?",
+                "target": ""
+              },
+              "tooltipContent": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            },
+            {
+              "id": "3",
+              "iconDetails": {
+                "url": "",
+                "altText": "Emergency Cash Assistance",
+                "title": "Emergency Cash Assistance"
+              },
+              "text": "Emergency Cash Assistance",
+              "isChecked": false,
+              "programContent": "Temporary Assistance for Needy Families",
+              "tooltipLink": {
+                "text": "WHAT IS THIS?",
+                "target": ""
+              },
+              "tooltipContent": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            }
+          ]
+        },
+        "applyButton": {
+          "textAlign": "center",
+          "buttonText": "Apply Now"
+        }
+      }
+    },
+    "banner": {
+      "config": {
+        "id": "",
+        "textAlign": "right",
+        "theme": "theme-background-light",
+        "bannerImage": {
+          "url": "https://rupsenatest.000webhostapp.com/home_page/home_banner_image.png",
+          "alt": "banner image",
+          "title": "banner image"
+        },
+        "height": "tall"
+      },
+      "content": {
+        "headline": {
+          "text": "Let’s see if we can help"
+        },
+        "paragraph": {
+          "text": "Itia nis evelit quid quiatur emperfe rorepudae quis aut eturionsedis consequi optiuint et verci ium dipsum unt pore quatia di occabor resto cullum <a id='inPageAnchor-1' className='inPageAnchor' href='#' target='_self'>Healthcare Coverage</a>, <a id='inPageAnchor-1' className='inPageAnchor' href='#' target='_self'>Help Paying For Food</a> and <a id='inPageAnchor-1' className='inPageAnchor' href='#' target='_self'>Emergency Cash Assistance</a> ullesse cestias pellupt atiumqu assinverae nia sin por sed eatur aut aut quidis ex et reces pos a peribea ribus, te voloribus etur."
+        },
+        "primaryButton": {
+          "id": "",
+          "href": "#",
+          "text": "Am I Eligible?",
+          "target": "_blank"
+        },
+        "hatchText": {
+          "text": ""
+        },
+        "modal": {
+          "id": "",
+          "title": "Let's get started!",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. perspiciatis unde omnis iste. Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.<br/><br/>This is just a preliminary check for eligibility. We strongly encourage you to apply for a program and check for eligibility. This site is intended to support application, enrollment and benefits management for assistance programs.",
+          "primaryButton": {
+            "id": "",
+            "href": "#",
+            "text": "Am I Eligible?",
+            "target": "_blank"
+          }
+        }
+      },
+      "className": ""
+    },
+    "createAccount": {
+      "config": {
+        "id": "1",
+        "align": "center"
+      },
+      "content": {
+        "createLink": {
+          "textAlign": "right",
+          "buttonText": "CREATE AN ACCOUNT"
+        },
+        "benefits": {
+          "textAlign": "left",
+          "headline": "With an account you can",
+          "items": [
+            {
+              "id": "1",
+              "text": "Apply for benefits",
+              "iconDetails": {
+                "url": "",
+                "altText": "Apply for benefits",
+                "title": "Apply for benefits"
+              }
+            },
+            {
+              "id": "2",
+              "text": "Report changes to your case",
+              "iconDetails": {
+                "url": "",
+                "altText": "Report changes to your case",
+                "title": "Report changes to your case"
+              }
+            },
+            {
+              "id": "3",
+              "text": "Link your existing benefits",
+              "iconDetails": {
+                "url": "",
+                "altText": "Link your existing benefits",
+                "title": "Link your existing benefits"
+              }
+            },
+            {
+              "id": "4",
+              "text": "Check your benefits",
+              "iconDetails": {
+                "url": "",
+                "altText": "Check your benefits",
+                "title": "Check your benefits"
+              }
+            },
+            {
+              "id": "5",
+              "text": "View notices",
+              "iconDetails": {
+                "url": "",
+                "altText": "View notices",
+                "title": "View notices"
+              }
+            },
+            {
+              "id": "6",
+              "text": "Check premium information",
+              "iconDetails": {
+                "url": "",
+                "altText": "Check premium information",
+                "title": "Check premium information"
+              }
+            },
+            {
+              "id": "7",
+              "text": "Renew your benefits",
+              "iconDetails": {
+                "url": "",
+                "altText": "Renew your benefits",
+                "title": "Renew your benefits"
+              }
+            },
+            {
+              "id": "8",
+              "text": "Upload documents",
+              "iconDetails": {
+                "url": "",
+                "altText": "Upload documents",
+                "title": "Upload documents"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "announcement": {
+      "config": {
+        "id": "1",
+        "align": "center",
+        "theme": "theme-background-dark",
+        "height": "short"
+      },
+      "content": {
+        "announcements": [
+          {
+            "text": "Announcements and timely information will show up here.",
+            "iconDetails": {
+              "className": "icon",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/announcement_icon.png",
+              "altText": "announcement",
+              "title": "announcements"
+            }
+          }
+        ]
+      }
+    },
+    "programCarousel": {
+      "config": {
+        "id": "1",
+        "align": "center",
+        "theme": "theme-background-grey",
+        "height": "short"
+      },
+      "content": {
+        "headline": {
+          "text": "Learn about other programs"
+        },
+        "programs": [
+          {
+            "text": "State Federal Health<br/>Insurance Marketplace",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_1.jpg",
+              "alt": "State Federal Health Insurance Marketplace",
+              "title": "State Federal Health Insurance Marketplace"
+            }
+          },
+          {
+            "text": "Help with<br/>Child Care",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_2.jpg",
+              "alt": "Help with Child Care",
+              "title": "Help with Child Care"
+            }
+          },
+          {
+            "text": "Adult<br/>Day Care",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_3.jpg",
+              "alt": "Adult Day Care",
+              "title": "Adult Day Care"
+            }
+          },
+          {
+            "text": "Educational<br/>Assistance",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_4.jpg",
+              "alt": "Educational Assistance",
+              "title": "Educational Assistance"
+            }
+          },
+          {
+            "text": "Employment<br/>Services",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_5.jpg",
+              "alt": "Employment Services",
+              "title": "Employment Services"
+            }
+          },
+          {
+            "text": "Legal<br/>Help",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_6.jpg",
+              "alt": "Legal Help",
+              "title": "Legal Help"
+            }
+          },
+          {
+            "text": "State Federal Health<br/>Insurance Marketplace",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_1.jpg",
+              "alt": "State Federal Health Insurance Marketplace",
+              "title": "State Federal Health Insurance Marketplace"
+            }
+          },
+          {
+            "text": "Help with<br/>Child Care",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_2.jpg",
+              "alt": "Help with Child Care",
+              "title": "Help with Child Care"
+            }
+          },
+          {
+            "text": "Adult<br/>Day Care",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_3.jpg",
+              "alt": "Adult Day Care",
+              "title": "Adult Day Care"
+            }
+          },
+          {
+            "text": "Educational<br/>Assistance",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_4.jpg",
+              "alt": "Educational Assistance",
+              "title": "Educational Assistance"
+            }
+          },
+          {
+            "text": "Employment<br/>Services",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_5.jpg",
+              "alt": "Employment Services",
+              "title": "Employment Services"
+            }
+          },
+          {
+            "text": "Legal<br/>Help",
+            "icon": {
+              "className": "programCarousel-image",
+              "url": "https://rupsenatest.000webhostapp.com/home_page/other_program_photo_placeholder_6.jpg",
+              "alt": "Legal Help",
+              "title": "Legal Help"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
